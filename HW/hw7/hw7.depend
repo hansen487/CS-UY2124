@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1510794497 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw7\hw07.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"noble.h"
+	"protector.h"
+
+1510798947 c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw7\noble.h
+	"protector.h"
+	<iostream>
+	<string>
+	<vector>
+
+1510794498 c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw7\protector.h
+	<iostream>
+	<vector>
+	<string>
+	"noble.h"
+
+1510799205 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw7\noble.cpp
+	"protector.h"
+	"noble.h"
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+
+1510799417 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw7\protector.cpp
+	"protector.h"
+	"noble.h"
+	<iostream>
+	<string>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506630865 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab4\lab4.cpp
+	<iostream>
+	<vector>
+	<string>
+

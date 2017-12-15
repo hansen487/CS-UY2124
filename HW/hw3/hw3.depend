@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1506491375 source:c:\users\hanse\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw3\hw03.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<vector>
+

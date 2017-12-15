@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1508451278 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab7\course.cpp
+	"Student.h"
+	"Course.h"
+	<iostream>
+	<string>
+	<vector>
+
+1508451438 c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab7\student.h
+	"Course.h"
+	<iostream>
+	<string>
+
+1508451222 c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab7\course.h
+	"Student.h"
+	<iostream>
+	<vector>
+	<string>
+
+1508451794 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab7\rec07.cpp
+	"Registrar.h"
+	<iostream>
+	<string>
+
+1508452034 c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab7\registrar.h
+	<string>
+	<vector>
+	"Student.h"
+	"Course.h"
+
+1508451739 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab7\registrar.cpp
+	"Student.h"
+	"Course.h"
+	"Registrar.h"
+	<iostream>
+	<vector>
+	<string>
+
+1508451439 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab7\student.cpp
+	"Student.h"
+	"Course.h"
+	<iostream>
+	<string>
+

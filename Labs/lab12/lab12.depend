@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1512362982 source:c:\users\hanse\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab12\rec12-test.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<algorithm>
+
+1512590912 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab12\rec12-test.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<algorithm>
+

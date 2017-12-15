@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1512095751 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw8\polynomial.cpp
+	"polynomial.h"
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<algorithm>
+
+1512152185 c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw8\polynomial.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+
+1512092623 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw8\testpolynomial.cpp
+	"polynomial.h"
+	<iostream>
+	<vector>
+
+1512360262 source:c:\users\hanse\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw8\polynomial.cpp
+	"polynomial.h"
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<algorithm>
+
+1512360430 c:\users\hanse\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw8\polynomial.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+
+1512359658 source:c:\users\hanse\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw8\testpolynomial.cpp
+	"polynomial.h"
+	<iostream>
+	<vector>
+

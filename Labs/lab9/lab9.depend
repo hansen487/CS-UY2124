@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1509652010 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab9\task2.cpp
+	<iostream>
+
+1509652005 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab9\task3.cpp
+	<iostream>
+
+1509654180 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab9\task14.cpp
+	<iostream>
+
+1509654441 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab9\task15.cpp
+	<iostream>
+	<vector>
+

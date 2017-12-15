@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab8\main.cpp
+	<iostream>
+
+1509056129 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab8\rational.cpp
+	"Rational.h"
+	<iostream>
+	<string>
+
+1509055834 c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab8\rational.h
+	<iostream>
+	<string>
+
+1509055481 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab8\testrational.cpp
+	<iostream>
+	"Rational.h"
+

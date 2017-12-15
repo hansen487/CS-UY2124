@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1513287002 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\labs\lab14\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<climits>
+

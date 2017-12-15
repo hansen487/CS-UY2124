@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1507876146 source:c:\users\hanse\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw05\hw05.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<algorithm>
+	<string>
+
+1507845896 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw05\hw05.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<algorithm>
+	<string>
+

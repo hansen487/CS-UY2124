@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1509086228 source:c:\users\hanse\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw6\hw06.cpp
+	"Noble.h"
+	"Warrior.h"
+	<iostream>
+	<vector>
+	<string>
+
+1509087961 c:\users\hanse\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw6\noble.h
+	<iostream>
+	<vector>
+	<string>
+	"Warrior.h"
+
+1509088196 c:\users\hanse\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw6\warrior.h
+	<iostream>
+	<string>
+	<vector>
+	"Noble.h"
+
+1509088311 source:c:\users\hanse\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw6\noble.cpp
+	"Warrior.h"
+	"Noble.h"
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+
+1509089821 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw6\hw06.cpp
+	"Noble.h"
+	"Warrior.h"
+	<iostream>
+	<vector>
+	<string>
+
+1509090488 c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw6\noble.h
+	<iostream>
+	<vector>
+	<string>
+	"Warrior.h"
+
+1509089996 c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw6\warrior.h
+	<iostream>
+	<string>
+	<vector>
+	"Noble.h"
+
+1509089275 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw6\noble.cpp
+	"Warrior.h"
+	"Noble.h"
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+
+1509090402 source:c:\users\hansen487\onedrive\documents\nyu\fall 2017\cs-uy 2124\hw\hw6\warrior.cpp
+	"Warrior.h"
+	"Noble.h"
+	<iostream>
+	<string>
+	<vector>
+
